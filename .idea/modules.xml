@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/minha Primeira API.iml" filepath="$PROJECT_DIR$/.idea/minha Primeira API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minha-Primeira-API/minha-Primeira-API.iml" filepath="$PROJECT_DIR$/minha-Primeira-API/minha-Primeira-API.iml" />
+    </modules>
+  </component>
+</project>
